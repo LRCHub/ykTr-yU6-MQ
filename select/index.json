@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Soup",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-14T06:55:26.376402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Hot Soup",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Black_Hot_Soup_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Swan Soup",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/02_Swan_Soup_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wonton Soup",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/03_Wonton_Soup_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chicken Soup",
+      "artist": "Lil Tracy feat. Chief Keef",
+      "has_synced": true,
+      "path": "select/04_Chicken_Soup_Lil_Tracy_feat._Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chicken Soup",
+      "artist": "Chief Keef & Lil Tracy",
+      "has_synced": true,
+      "path": "select/05_Chicken_Soup_Chief_Keef_&_Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alphabet Soup - 12\" Mix",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/06_Alphabet_Soup_-_12__Mix_ABC.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alphabet Soup (12\" Mix)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/07_Alphabet_Soup_(12__Mix)_ABC.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Alphabet Soup (BBC Swapshop Version)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/08_Alphabet_Soup_(BBC_Swapshop_Version)_ABC.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chicken Soup",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/09_Chicken_Soup_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Talk Soup",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/10_Talk_Soup_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Alphabet Soup",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/11_Alphabet_Soup_Laika.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heavy Soup",
+      "artist": "Cornershop",
+      "has_synced": false,
+      "path": "select/12_Heavy_Soup_Cornershop.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Soup",
+      "artist": "Can",
+      "has_synced": true,
+      "path": "select/13_Soup_Can.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Soup for One (12\" Mix)",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/14_Soup_for_One_(12__Mix)_Chic.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chicken Soup",
+      "artist": "Angel",
+      "has_synced": true,
+      "path": "select/15_Chicken_Soup_Angel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soup",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Soup_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
